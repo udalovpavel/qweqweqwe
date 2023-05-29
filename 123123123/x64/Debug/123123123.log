@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\sasha\source\repos\123123123\123123123\main.cpp(655,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\123123123\123123123\main.cpp(754,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sasha\source\repos\123123123\123123123\main.cpp(754,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sasha\source\repos\123123123\123123123\main.cpp(792,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sasha\source\repos\123123123\123123123\main.cpp(792,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  123123123.vcxproj -> C:\Users\sasha\source\repos\123123123\x64\Debug\123123123.exe
